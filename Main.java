@@ -3,5 +3,7 @@ class Main {
         System.out.println("hello world!");   
         System.out.println("this line is add in branch1");   
         System.out.println("line by branch1");  
+        System.out.println("this line is add in branch1");    
+        System.out.println("line by main"); 
     }
 }
